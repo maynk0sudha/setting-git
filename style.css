@@ -1,0 +1,8 @@
+body {
+  background: blue;
+}
+.heading {
+  text-align: center;
+  color: wheat;
+  text-transform: uppercase;
+}
